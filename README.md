@@ -1,2 +1,2 @@
 # Social_Brain
-Preliminary python scripts for social facilitation data (Demolliens 2017).
+Preliminary python scripts for social facilitation data.
